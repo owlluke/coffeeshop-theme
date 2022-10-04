@@ -2,12 +2,13 @@
   "name": "coffeeshop-theme",
   "main": "coffeeshop-theme",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "รับทำ SEO",
+  "version": "0.3.0",
+  "description": "SEO Wordpress Test Google adword",
   "keywords": [
-    "test",
     "SEO",
-    "AdWord"
+    "Wordpress",
+    "Test",
+    "Google adword"
   ],
   "repository": "https://github.com/owlluke/coffeeshop-theme",
   "license": "MIT",
