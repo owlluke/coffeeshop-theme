@@ -1,0 +1,17 @@
+{
+  "name": "coffeeshop-theme",
+  "main": "coffeeshop-theme",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "รับทำ SEO",
+  "keywords": [
+    "test",
+    "SEO",
+    "AdWord"
+  ],
+  "repository": "https://github.com/owlluke/coffeeshop-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  }
+}
