@@ -1,6 +1,6 @@
 {
-  "name": "coffeeshop-theme",
-  "main": "coffeeshop-theme",
+  "name": "coffeeshop-theme-1",
+  "main": "coffeeshop-theme-1",
   "theme": "syntax",
   "version": "0.2.0",
   "description": "SEO Wordpress Test Google adword",
@@ -10,7 +10,7 @@
     "Test",
     "Google adword"
   ],
-  "repository": "https://github.com/owlluke/coffeeshop-theme",
+  "repository": "https://github.com/owlluke/coffeeshop-theme-1",
   "license": "MIT",
   "engines": {
     "atom": "*"
